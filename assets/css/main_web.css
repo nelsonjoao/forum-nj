@@ -1,0 +1,51 @@
+.cabecalho{
+    background: url("../../imagens/background_topo.jpg") no-repeat;
+    background-size: cover;
+	background-position: center;
+    height: 200px;
+    color: white;
+}
+
+.titulo{
+    padding-top: 50px;
+    padding-left: 60px;
+}
+.subtitulo{
+    padding-top: 10px;
+    padding-left: 60px;
+}
+.barra-cliente{
+    background-color: rgba(220,220,220,0.5);
+    color:rgb(73, 73, 73);
+
+}
+
+.body{
+    color: white !important;
+}
+.rodape{
+    margin-top: 30px;
+    color:white;
+    font-size: .8em;
+}
+
+.rodape-social{
+    font-size: 2.3em;
+}
+
+.rodape a{
+text-decoration: none;
+color: rgb(70, 176, 238);
+}
+
+.rodape a:hover{
+    color: rgb(169, 217, 245);  
+}
+
+.barra-cliente a{
+    text-decoration: none;
+}
+
+.btn-size-150{width: 150px;}
+.btn-size-100{width: 100px;}
+
